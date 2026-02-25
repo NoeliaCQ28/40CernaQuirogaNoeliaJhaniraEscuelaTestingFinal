@@ -1,0 +1,22 @@
+[
+  {
+    "id": 4001,
+    "username": "listuser01",
+    "firstName": "List",
+    "lastName": "User01",
+    "email": "list01@mail.com",
+    "password": "#variable#",
+    "phone": "555-4001",
+    "userStatus": 1
+  },
+  {
+    "id": 4002,
+    "username": "listuser02",
+    "firstName": "List",
+    "lastName": "User02",
+    "email": "list02@mail.com",
+    "password": "#variable#",
+    "phone": "555-4002",
+    "userStatus": 1
+  }
+]

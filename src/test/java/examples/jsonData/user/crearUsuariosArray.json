@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3001,
+    "username": "bulkuser01",
+    "firstName": "Bulk",
+    "lastName": "User01",
+    "email": "bulk01@mail.com",
+    "password": "#variable#",
+    "phone": "555-3001",
+    "userStatus": 1
+  },
+  {
+    "id": 3002,
+    "username": "bulkuser02",
+    "firstName": "Bulk",
+    "lastName": "User02",
+    "email": "bulk02@mail.com",
+    "password": "#variable#",
+    "phone": "555-3002",
+    "userStatus": 1
+  }
+]

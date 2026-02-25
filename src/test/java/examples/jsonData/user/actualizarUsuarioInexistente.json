@@ -1,0 +1,10 @@
+{
+  "id": 9999,
+  "username": "usernoexiste",
+  "firstName": "Nadie",
+  "lastName": "Nadie",
+  "email": "nadie@mail.com",
+  "password": "#variable#",
+  "phone": "000-0000",
+  "userStatus": 0
+}

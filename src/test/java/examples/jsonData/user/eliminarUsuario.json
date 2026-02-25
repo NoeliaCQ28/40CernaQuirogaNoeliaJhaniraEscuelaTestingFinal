@@ -1,0 +1,10 @@
+{
+  "id": 2001,
+  "username": "deleteme2001",
+  "firstName": "Delete",
+  "lastName": "Me",
+  "email": "deleteme@mail.com",
+  "password": "#variable#",
+  "phone": "555-2001",
+  "userStatus": 1
+}
