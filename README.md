@@ -1,4 +1,4 @@
-# test_api_pets - Automatización Petstore API
+# Automatización API Karate (Petstore Swagger)
 
 ## ¿Qué hace esta automatización?
 
